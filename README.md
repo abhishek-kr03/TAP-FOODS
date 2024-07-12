@@ -71,5 +71,3 @@ Sample Photos :
 ![Screenshot 2024-07-12 232939](https://github.com/user-attachments/assets/de0b6e6f-599d-481b-8397-dc2df2440fe7)
 
 
-Note : This is a testing version, you may face some bugs and glitches, the work on this application is still going on.
-
