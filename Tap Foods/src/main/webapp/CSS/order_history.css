@@ -1,0 +1,41 @@
+@charset "UTF-8";
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #333 url(images/background.jpg) no-repeat center center/cover;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #333;
+}
+
+.logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ff6b6b;
+    transition: transform 0.3s, color 0.3s;
+}
+
+.logo:hover {
+    transform: scale(1.1);
+    color: #ff2e2e;
+}
+
+.container {
+    background-color: rgba(255, 255, 255, 0.9);
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+}
+
+.table-hover tbody tr:hover {
+    background-color: rgba(255, 107, 107, 0.2);
+}
+
+thead.thead-dark th {
+    background-color: #333;
+    color: white;
+}
+
+.text-center {
+    margin-bottom: 20px;
+}

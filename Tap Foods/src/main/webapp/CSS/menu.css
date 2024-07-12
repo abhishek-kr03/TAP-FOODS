@@ -1,0 +1,131 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+    font-family: 'Arial', sans-serif;
+    background: #333 url(images/b6.jpg) no-repeat center center/cover;
+    background-size: cover;
+    background-attachment: fixed;
+    color: #333;
+}
+
+header {
+    background: rgba(30, 30, 30, 0.9);
+    text-align: center;
+    color: white;
+    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.7);
+}
+
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    max-width: 87rem;
+    margin: 0 auto;
+    padding: 1rem 1rem;
+}
+
+nav .logo {
+    font-size: 1.5rem;
+    font-weight: bold;
+    color: #ff6b6b;
+    transition: transform 0.3s, color 0.3s;
+}
+
+nav .logo:hover {
+    transform: scale(1.1);
+    color: #ff2e2e;
+}
+
+nav ul {
+    list-style: none;
+    display: flex;
+    gap: 1rem;
+}
+
+nav ul li a {
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 1rem;
+    transition: color 0.3s, border-bottom 0.3s, transform 0.3s;
+    padding-bottom: 0.5rem;
+}
+
+nav ul li a:hover {
+    color: #ff6b6b;
+    border-bottom: 2px solid #ff6b6b;
+    transform: translateY(-2px);
+}
+
+.cart {
+    font-size: 1rem;
+    color: white;
+  
+
+}
+
+.container {
+    padding: 20px;
+    text-align: center;
+}
+
+container-header{
+    color: #f8f8f8;
+}
+
+h1{
+    color: #f8f8f8;
+}
+
+.menu-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.menu-item {
+    border: 1px solid #ddd;
+    margin: 10px;
+    padding: 10px;
+    width: 30%;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    background-color: rgba(255, 255, 255, 0.9);
+    border-radius: 8px;
+    transition: transform 0.3s, box-shadow 0.3s;
+}
+
+.menu-item:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.3);
+}
+
+.menu-item img {
+    width: 100%;
+    height: auto;
+    border-radius: 5px;
+}
+
+.menu-item h3 {
+    margin: 0;
+    padding: 0;
+    font-size: 20px;
+}
+
+.menu-item p {
+    margin: 5px 0;
+    color: #333;
+}
+
+.add-to-cart {
+    background-color: #ff6b6b;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.add-to-cart:hover {
+    background-color: #ff2e2e;
+}
