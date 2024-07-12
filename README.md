@@ -51,23 +51,25 @@ Feel free to customize this README content to better fit your project and person
 
 
 Sample Photos :
-![Screenshot 2024-07-12 232246](https://github.com/user-attachments/assets/0fb111be-a73c-4d12-a033-3caed27a029c)
 
-![Screenshot 2024-07-12 232314](https://github.com/user-attachments/assets/c43a6c9e-06b1-480a-8da1-a2117b89adfa)
+![Screenshot 2024-07-12 232246](https://github.com/user-attachments/assets/1e3a1e9d-ffcd-44f1-aa01-7a8b961c8cba)
 
-![Screenshot 2024-07-12 232350](https://github.com/user-attachments/assets/d5024af4-2209-4155-9fd3-876fd475dc2e)
+![Screenshot 2024-07-12 232314](https://github.com/user-attachments/assets/79bc29e6-7736-4ec5-ac70-e46bcc7cf1db)
 
-![Screenshot 2024-07-12 232428](https://github.com/user-attachments/assets/600a18a7-7507-4983-9d82-df5fa083aefd)
+![Screenshot 2024-07-12 232350](https://github.com/user-attachments/assets/29e9adb4-caed-4bb7-8170-6b67ce3da5c9)
 
-![Screenshot 2024-07-12 232451](https://github.com/user-attachments/assets/e8770582-3cad-4d0f-ae53-13353d81ee78)
+![Screenshot 2024-07-12 232428](https://github.com/user-attachments/assets/ff29c3c5-90c2-455a-a9aa-1db9fca42e23)
 
-![Screenshot 2024-07-12 232702](https://github.com/user-attachments/assets/4c2d2c88-2012-4f58-9959-79053fc310f6)
+![Screenshot 2024-07-12 232451](https://github.com/user-attachments/assets/8edce918-2f70-4788-9c31-49e498ef3433)
 
-![Screenshot 2024-07-12 232736](https://github.com/user-attachments/assets/2a3d69be-2ef9-4c42-bf4a-59d8d4906f7b)
+![Screenshot 2024-07-12 232702](https://github.com/user-attachments/assets/311ce43e-29bd-4010-b85f-0571414344c8)
 
-![Screenshot 2024-07-12 232804](https://github.com/user-attachments/assets/ce403dd1-af80-4256-b55a-5d49b8dd4387)
+![Screenshot 2024-07-12 232736](https://github.com/user-attachments/assets/4b21661a-a478-42f3-81df-edca011ffcdb)
 
-![Screenshot 2024-07-12 232939](https://github.com/user-attachments/assets/50c7d90b-4855-459a-a067-8eb5a3aa6e19)
+![Screenshot 2024-07-12 232804](https://github.com/user-attachments/assets/e91155a2-a592-4fdc-87d1-cf73b59878ce)
+
+![Screenshot 2024-07-12 232939](https://github.com/user-attachments/assets/de0b6e6f-599d-481b-8397-dc2df2440fe7)
+
 
 Note : This is a testing version, you may face some bugs and glitches, the work on this application is still going on.
 
