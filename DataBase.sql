@@ -82,4 +82,3 @@ CREATE TABLE `cart_item` (
 `price` DOUBLE ,
 FOREIGN KEY (`restaurant_id`) REFERENCES `restaurant`(`restaurant_id`)
 );
-
