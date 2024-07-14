@@ -17,7 +17,7 @@ Welcome to **Tap Foods**, your one-stop solution for food delivery! This applica
 ### Technology Stack
 
 - **Frontend**: HTML, CSS, JavaScript, Bootstrap (with animations powered by Animate.css)
-- **Backend**: Java (Servlets), JSP
+- **Backend**: Java (Servlets), JSP, JDBC
 - **Database**: MySQL
 - **Version Control**: Git, GitHub
 
