@@ -49,6 +49,7 @@ For any inquiries or support, please contact us at support@tapfoods.com.
 
 Feel free to customize this README content to better fit your project and personal style.
 
+---
 
 Sample Photos :
 
