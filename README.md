@@ -1,4 +1,4 @@
-### Tap Foods - Food Delivery Application
+# Tap Foods - Food Delivery Application
 
 Welcome to **Tap Foods**, your one-stop solution for food delivery! This application is designed to make ordering food as easy and convenient as possible. Whether you're craving a spicy chicken curry, a classic Margherita pizza, or a delicious paneer tikka, Tap Foods has got you covered. 
 
